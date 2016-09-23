@@ -1,19 +1,19 @@
 var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
-
 var app = express();
 app.use(morgan('combined'));
 var articleOne={
     title:'article-one I MUJAHIR HUSSAIN ABBASI',
     heading: 'Arcticle one',
     date:'sep 21,2016',
-    content: ` <p>
+    content: 
+    ` <p>
                 this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
             </p>    
              <p>
                 this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
-            </p>`
+    </p>`
 };
 function createTemplate (data){
 var title=data.title;
