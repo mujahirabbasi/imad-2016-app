@@ -4,7 +4,7 @@ var path = require('path');
 
 var app = express();
 app.use(morgan('combined'));
-var content={
+var articleOne={
     title:'article-one I MUJAHIR HUSSAIN ABBASI',
     heading: 'Arcticle one',
     date:'sep 21,2016',
@@ -15,7 +15,7 @@ var content={
                 this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
             </p>`
 };
-function createTemplate(data){
+function createTemplate (data){
 var title=data.title;
 var date=data.date;
 var heading=data.heading;
