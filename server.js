@@ -3,8 +3,9 @@ var morgan = require('morgan');
 var path = require('path');
 var app = express();
 app.use(morgan('combined'));
-var articleOne={
-    title:'article-one I MUJAHIR HUSSAIN ABBASI',
+var articles={
+    articleOne:{
+         title:'article-one I MUJAHIR HUSSAIN ABBASI',
     heading: 'Arcticle one',
     date:'sep 21,2016',
     content: 
@@ -14,9 +15,29 @@ var articleOne={
              <p>
                 this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
     </p>`
+    },
+    articleTwo:{
+        title:'article-two I MUJAHIR HUSSAIN ABBASI',
+    heading: 'Arcticle two',
+    date:'sep 11,2016',
+    content: 
+    ` <p>
+                This is  a content for second article.
+            </p>`    
+    
+},
+    articleThree:{
+        title:'article-three I MUJAHIR HUSSAIN ABBASI',
+    heading: 'Arcticle three',
+    date:'sep 1,2016',
+    content: 
+    ` <p>
+                This is  a content for third arctile.
+            </p>`
+    }
 };
 function createTemplate (data){
-var title=data.title;
+var title = data.title;
 var date=data.date;
 var heading=data.heading;
 var content=data.content;
