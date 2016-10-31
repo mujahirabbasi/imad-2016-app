@@ -1,6 +1,6 @@
 console.log('Loaded!');
 var element=document.getElementById('main-text');
-element.innerHTML='This is SULTAN MIRZA';
+element.innerHTML='This is MUJAHIR';
 
 var img=document.getElementById('mujahir');
 var marginLeft=0;
