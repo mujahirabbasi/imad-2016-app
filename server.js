@@ -5,7 +5,7 @@ var app = express();
 app.use(morgan('combined'));
 var articles={
     'About':{
-         title:'article-one I MUJAHIR HUSSAIN ABBASI',
+         title:'About',
     heading: 'Arcticle one',
     date:'sep 21,2016',
     content: 
@@ -16,8 +16,8 @@ var articles={
                 this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
     </p>`
     },
-    'article-two':{
-        title:'article-two I MUJAHIR HUSSAIN ABBASI',
+    'Search':{
+        title:'Search',
     heading: 'Arcticle two',
     date:'sep 11,2016',
     content: 
@@ -26,8 +26,8 @@ var articles={
             </p>`    
     
 },
-    'artcile-three':{
-        title:'article-three I MUJAHIR HUSSAIN ABBASI',
+    'Login':{
+        title:'Login',
     heading: 'Arcticle three',
     date:'sep 1,2016',
     content: 
