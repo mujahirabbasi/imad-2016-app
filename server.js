@@ -26,7 +26,7 @@ var articles={
             </p>`    
     
 },
-    'artcile-three':{
+    'Login':{
         title:'article-three I MUJAHIR HUSSAIN ABBASI',
     heading: 'Arcticle three',
     date:'sep 1,2016',
