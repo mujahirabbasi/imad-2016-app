@@ -5,7 +5,7 @@ var app = express();
 app.use(morgan('combined'));
 var articles={
     'article-one':{
-         title:'About I MUJAHIR HUSSAIN ABBASI',
+         title:'article-one I MUJAHIR HUSSAIN ABBASI',
     heading: 'Arcticle one',
     date:'sep 21,2016',
     content: 
