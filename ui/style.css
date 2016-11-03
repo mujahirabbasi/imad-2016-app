@@ -10,6 +10,17 @@ body {
     background-color:rgb(168,181,189);
 
 }
+.horizontalnav ul{
+    list-style:none;
+}
+.horizontalnav li a{
+    text-decoration:none;
+}
+.horizontalnav li {
+    display:inline-block;
+    border:1px solid red;
+}
+
 .center {
     text-align: center;
 }
