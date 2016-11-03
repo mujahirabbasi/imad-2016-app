@@ -9,7 +9,9 @@ body {
     text-align: center;
 }
 
-
+.heading {
+    text-align: center;
+}
 .text-big {
     font-size: 300%;
 }
