@@ -5,7 +5,7 @@ body {
 
 }
 nav.horizontanav{
-    boder:1px solid back;
+    border:1px solid back;
     text-align: center;
     background-color:rgb(168,181,189);
 }
