@@ -25,6 +25,9 @@ body {
     padding:10px;
     background-color:rgb(245,225,200);
 }
+.horizontal a:hover{
+    background-color:blue;
+}
 
 .center {
     text-align: center;
