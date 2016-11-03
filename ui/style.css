@@ -4,8 +4,8 @@ body {
      background-image:url(http://media.istockphoto.com/photos/white-background-picture-id498090512?k=6&m=498090512&s=170667a&w=0&h=86-HtyXrvxV6LC43wO6A-tJ65PtonD8DXX_7YplNBws=);
 
 }
-nav.horizontanav{
-    border:1px solid back;
+.horizontanav{
+    border:1px solid black;
     text-align: center;
     background-color:rgb(168,181,189);
 }
