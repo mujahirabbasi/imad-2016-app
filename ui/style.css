@@ -16,13 +16,14 @@ body {
 .horizontalnav li a{
     text-decoration:none;
     color:rgb(125,145,199);
-    background-color:rgb(245,225,200);
+    
     font-size: 26px;
 }
 .horizontalnav li {
     display:inline-block;
     border:5px solid red;
     padding:10px;
+    background-color:rgb(245,225,200);
 }
 
 .center {
