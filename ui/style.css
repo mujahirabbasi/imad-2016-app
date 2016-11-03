@@ -17,6 +17,7 @@ body {
     text-decoration:none;
     color:rgb(125,145,199);
     background-color:rgb(245,225,200);
+    font-size: 16px;
 }
 .horizontalnav li {
     display:inline-block;
