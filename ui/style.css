@@ -35,7 +35,8 @@ body {
 
 .heading {
     text-align: center;
-    color:red
+    color:red;
+    font-family: georgia;
 }
 .text-big {
     font-size: 300%;
