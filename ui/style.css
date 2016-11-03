@@ -16,7 +16,7 @@ body {
 .horizontalnav li a{
     text-decoration:none;
     color:rgb(125,145,199);
-    background-color:rgb(90,75,45);
+    background-color:rgb(245,225,200);
 }
 .horizontalnav li {
     display:inline-block;
