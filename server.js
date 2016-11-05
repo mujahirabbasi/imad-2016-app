@@ -28,7 +28,7 @@ var articles={
 },
     'Login':{
         title:'Login',
-    heading: 'Arcticle three',
+    heading: 'LOGIN',
     date:'sep 1,2016',
     content: 
     ` <p>
