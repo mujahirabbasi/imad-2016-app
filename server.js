@@ -32,6 +32,7 @@ var articles={
     date:'sep 1,2016',
     content: 
     ` <p>
+    <input type="button" value="Click Here" onClick="myfunction()">
                 This is  a content for third arctile.
             </p>`
     }
