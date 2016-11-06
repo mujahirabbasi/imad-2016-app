@@ -47,7 +47,7 @@ var articles={
     <input type="checkbox" checked="checked"> Remember me
   </div>
 
-  <div class="contained" style="background-color:#f1f1f1">
+  <div class="contained" >
     <button type="button" class="cancelbtn">Cancel</button>
     
   </div>
