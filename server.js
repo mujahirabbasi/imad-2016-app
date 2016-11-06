@@ -36,11 +36,7 @@ var articles={
     <h2>Login Form</h2>
 
 <form action="action_page.php">
-  <div class="imgcontainer">
-    <img src="mush.jpg" alt="Mushahid" class="mush">
-  </div>
-
-  <div class="container">
+ <div class="container">
     <label><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
