@@ -36,7 +36,7 @@ var articles={
     <h2>Login Form</h2>
 
 <form action="action_page.php">
- <div class="container">
+ <div class="contained">
     <label><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
@@ -47,7 +47,7 @@ var articles={
     <input type="checkbox" checked="checked"> Remember me
   </div>
 
-  <div class="container" style="background-color:#f1f1f1">
+  <div class="contained" style="background-color:#f1f1f1">
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
