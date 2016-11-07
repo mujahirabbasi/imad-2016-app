@@ -29,7 +29,7 @@ var articles={
 },
     'Login':{
         title:'Login',
-    heading: 'LOGIN',
+    heading: '',
     date:'sep 1,2016',
     content: 
     ` <p>
