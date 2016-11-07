@@ -35,7 +35,7 @@ var articles={
     ` <p>
     <div class="container">
 <div class="header">
- <h1>Login To YouTube</h1>
+ <h1>LOGIN</h1>
  </div>
 
  <form name="login" onsubmit="return validateForm() ;" method="post">
