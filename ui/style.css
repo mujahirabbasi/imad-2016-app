@@ -69,17 +69,7 @@ h1 {
 	color: #F07334
 }
 
-.container {
-	font-family:  sans-serif;
-	border: 2px solid #F07334;
-	width: 24%;
-	text-align:  center;
-	margin: auto;
-	border-radius: 12px;
-	background-color: white;
-	padding-bottom: 10px;
-	
-}
+
 
 .submit {
 	background-color: transparent;
