@@ -32,7 +32,7 @@ var articles={
     heading: '',
     date:'sep 1,2016',
     content: 
-    ` <p>
+    
     <div class="container">
 <div class="header">
  <h1>LOGIN</h1>
@@ -97,9 +97,7 @@ function validate()
 }
 </script>
 
-            This is  a content for third arctile.
- 
-            </p>`
+            
     }
 };
 function createTemplate (data){
