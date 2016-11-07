@@ -49,6 +49,7 @@ var articles={
  </ul>
 
 <input type="button" class="submit" value="Log In" name="submit" onclick="validate()">
+
 <input type="button" class="submit" value="Sign Up" name="submit" onclick="validate()">
 </form>
 </div>
