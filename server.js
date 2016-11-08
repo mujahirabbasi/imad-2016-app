@@ -60,11 +60,14 @@ var articles={
   <form name="login" onsubmit="return validateForm() ;" method="post">
 
  <ul>
- <li>Username: <input class="username" type="text" name="First Name">
+ <li>First Name: <input class="username" type="text" name=""username>
  </li>
- <li>Username: <input class="username" type="text" name="Last Name">
+ <li>Last Name: <input class="username" type="text" name="username">
  </li>
  <li>Password: <input class="password" type="password" name="password">
+ </li>
+ </li>
+ <li> Confrim Password: <input class="password" type="password" name="password">
  </li>
  </ul>
  </div>
