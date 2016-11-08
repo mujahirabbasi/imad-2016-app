@@ -65,7 +65,7 @@ var articles={
  <li>Last Name: <input class="username" type="text" name="username">
  </li>
   </li>
- <li>Email Id: <input class="username" type="text" name="username">
+ <li> Email Id: <input class="username" type="text" name="username">
  </li>
  <li>Password: <input class="password" type="password" name="password">
  </li>
