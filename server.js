@@ -70,7 +70,7 @@ var articles={
  <li>Password: <input class="password" type="password" name="password">
  </li>
  </li>
- <li> Confrim Password: <input class="password" type="password" name="password">
+ <li>Confrim Password: <input class="password" type="password" name="password">
  </li>
  </ul>
  <input type="button" class="submit" value="Sign Up" name="submit" >
