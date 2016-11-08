@@ -53,6 +53,11 @@ var articles={
 <input type="button" class="submit" value="Sign Up" name="submit" >
 </form>
 </div>
+<br></br>
+<br></br>
+<div class="header">
+ <h1>REGISTER</h1>
+ </div>
 
 <script>
 var count= 2;
