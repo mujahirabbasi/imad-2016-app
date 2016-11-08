@@ -57,6 +57,16 @@ var articles={
 <br></br>
 <div class="header">
  <h1>REGISTER</h1>
+  <form name="login" onsubmit="return validateForm() ;" method="post">
+
+ <ul>
+ <li>Username: <input class="username" type="text" name="First Name">
+ </li>
+ <li>Username: <input class="username" type="text" name="Last Name">
+ </li>
+ <li>Password: <input class="password" type="password" name="password">
+ </li>
+ </ul>
  </div>
 
 <script>
