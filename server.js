@@ -63,28 +63,7 @@ var articles={
 <input type="button" class="submit" value="Sign Up" name="submit" >
 </form>
 </div>
-<br></br>
-<br></br>
-<div class="header">
- <h1>REGISTER</h1>
-  <form name="login" onsubmit="return validateForm() ;" method="post">
 
- <ul>
- <li>First Name: <input class="username" type="text" name=""username>
- </li>
- <li>Last Name: <input class="username" type="text" name="username">
- </li>
-  </li>
- <li> Email Id: <input class="username" type="text" name="username">
- </li>
- <li>Password: <input class="password" type="password" name="password">
- </li>
- </li>
- <li>Confrim Password: <input class="password" type="password" name="password">
- </li>
- </ul>
- <input type="button" class="submit" value="Sign Up" name="submit" >
- </div>
 
 <script>
 var count= 2;
