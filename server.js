@@ -202,7 +202,7 @@ var content='Test Content';
      var password=req.body.password;
      var salt=crypto.randomBytes(128).toString('hex');
     var dbString = hash(password,salt);
-     res.send('User succesfully created'+username);
+ //    res.send('User succesfully created'+username);
     pool.query('INSERT INTO "user"(username,password)VALUES($1,$2)',[username,dbString],function(err,result) {
         
         if(err) {
