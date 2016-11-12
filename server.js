@@ -187,7 +187,7 @@ var content='Test Content';
                 ${heading}
             </h3>
             <div>
-                ${password}
+                ${pd}
             </div>
             <hr/>
             <div>
