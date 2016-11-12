@@ -165,6 +165,7 @@ app.get('/hash/:input',function(req,res){
 app.post('/create-user',function(req,res){
     console.log("post");
       var username=req.body.username;
+       var password=req.body.password;
     var title='Test';
 var date='11/11/2016';
 var heading='Test';
@@ -186,7 +187,7 @@ var content='Test Content';
                 ${heading}
             </h3>
             <div>
-                ${date}
+                ${password}
             </div>
             <hr/>
             <div>
@@ -198,7 +199,7 @@ var content='Test Content';
 `;
 res.send( htmlTemplate);
      var username=req.body.username;
-    // var password=req.body.password;
+     var password=req.body.password;
     // var salt=crypto.randomBytes(128).toString('hex');
     // var dbString = hash(password,salt);
     // res.send('User succesfully created'+username);
