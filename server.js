@@ -60,7 +60,7 @@ var articles={
 
 <input type="button" class="submit" value="Log In" name="submit" onclick="validate()">
 <br></br>
-<input type="button" class="submit" value="Sign Up" name="submit" >
+
 </form>
 </div>
 
