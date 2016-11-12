@@ -165,7 +165,7 @@ app.get('/hash/:input',function(req,res){
 app.post('/create-user',function(req,res){
     console.log("post");
       var username=req.body.username;
-       var password=req.body.password;
+       var password=req.body.pd;
     var title='Test';
 var date='11/11/2016';
 var heading='Test';
@@ -187,7 +187,7 @@ var content='Test Content';
                 ${heading}
             </h3>
             <div>
-                ${pd}
+                ${password}
             </div>
             <hr/>
             <div>
