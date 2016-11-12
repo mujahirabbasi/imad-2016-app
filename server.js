@@ -1,9 +1,9 @@
 var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
-var Pool=require('pg').Pool;
-var crypto=require('crypto');
-var bodyParser=require('body-parser');
+var Pool = require('pg').Pool;
+var crypto = require('crypto');
+var bodyParser= require('body-parser');
 
 var config={
     username:'mujahirabbasi',
@@ -217,7 +217,7 @@ var content='Test Content';
 });
 
 var pool = new Pool(config);
-app.get('/test-db',function(req,res){
+app.get('/test',function(req,res){
     pool.query('SELECT * FROM test', function(err, result) {
       
       if(err) {
