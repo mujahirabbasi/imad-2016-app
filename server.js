@@ -175,7 +175,7 @@ app.post('/create-user',function(req,res){
       }
     else
     {
-        res.send('User succesfukky dcreated'+username);
+        res.send('User succesfully created'+username);
     }
     
     });
