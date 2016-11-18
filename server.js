@@ -28,8 +28,17 @@ var articles={
  <div >
  <img  src="https://pbs.twimg.com/profile_images/799658699195224064/8i2lKjhm.jpg" class="img-medium1" height="120" width="120" align="left" align="top" />
  <h3>Personal</h3>
+ <div>Hi, My name is Mujahir Hussain Abbasi</div>
  </hr>
- <div>Hi, My name is Mujahir Hussain Abbasi
+  <h3>Qualification</h3>
+  <div>I'm a final year engineering student majoring in Information Technology  </div>
+ </hr>
+ <div>Hi, My name is Mujahir Hussain Abbasi</div>
+  <h3>Area of Interst</h3>
+  <div>I'm deeply interested in Android development and had developed some apps also </div>
+ </hr>
+ 
+ 
  </div>
     </p>`
     },
