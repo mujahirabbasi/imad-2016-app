@@ -18,14 +18,12 @@ app.use(bodyParser.json());
 var articles={
     'About':{
          title:'About',
-    heading: 'Arcticle one',
+    heading: '',
     date:'sep 21,2016',
     content: 
     ` <p>
-    
-                this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
-                
-            
+    <h1>ABOUT</h1>
+              
     </p>`
     },
     'Register':{
