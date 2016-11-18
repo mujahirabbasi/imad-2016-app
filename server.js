@@ -26,7 +26,7 @@ var articles={
  <h1>ABOUT</h1>
  </div>
  <div class="center>
- <img src="/ui/mujahir.jpg" class="img-medium" />
+ <img src="https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/14068093_848295201970572_8514364197482803577_n.jpg?oh=59bc712daec79162c95741c99fcf6680&oe=58CD07C2" />
     </p>`
     },
     'Register':{
