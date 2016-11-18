@@ -30,7 +30,7 @@ var articles={
     },
     'Register':{
         title:'Register',
-    heading: 'Arcticle two',
+    heading: '',
     date:'sep 11,2016',
     content:
    
