@@ -91,7 +91,8 @@ h1 {
 
 }
 .img-medium{
-    
+    height:42;
+    width:42;
 }
 .password, .username {
 width: 50%;
