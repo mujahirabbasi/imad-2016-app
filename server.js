@@ -49,7 +49,7 @@ var articles={
  </li>
  
 
-<li>: <input class="password" type="password" name="password">
+<li>Password: <input class="password" type="password" name="password">
  </li>
  
  <li>Confirm Password: <input class="password" type="password" name="password">
