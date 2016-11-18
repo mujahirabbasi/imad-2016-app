@@ -26,7 +26,7 @@ var articles={
  <h1>ABOUT</h1>
  </div>
  <div class="center>
- <img src="ui/mujahir.jpg" class="img-medium" />
+ <img src="/ui/mujahir.jpg" class="img-medium" />
     </p>`
     },
     'Register':{
@@ -220,18 +220,7 @@ app.get('/ui/main.js', function (req, res) {
 });
 
 app.get('/ui/mujahir.jpg', function (req, res) {
-    
-     pool.query('SELECT * FROM test', function(err, result) {
-      
-      if(err) {
-          res.status(500).send(err.toString());
-      }
-    else
-    {
-        res.send(JSON.stringify(result.rows));
-    }
-    });
- // res.sendFile(path.join(__dirname, 'ui', 'mujahir.jpg'));
+ res.sendFile(path.join(__dirname, 'ui', 'mujahir.jpg'));
 });
 app.get('/:articleName',function(req,res){
 var articleName=req.params.articleName;
