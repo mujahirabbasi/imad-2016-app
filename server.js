@@ -29,6 +29,7 @@ var articles={
  <img  src="https://pbs.twimg.com/profile_images/799658699195224064/8i2lKjhm.jpg" class="img-medium1" height="120" width="120" align="left" align="top" />
  <h3>Personal</h3>
  </hr>
+ <div>Hi, My name is Mujahir Hussain Abbasi
  </div>
     </p>`
     },
