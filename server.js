@@ -22,10 +22,10 @@ var articles={
     date:'sep 21,2016',
     content: 
     ` <p>
+    
                 this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
-            </p>    
-             <p>
-                this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
+                
+            
     </p>`
     },
     'Register':{
