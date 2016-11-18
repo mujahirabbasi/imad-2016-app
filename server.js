@@ -22,9 +22,9 @@ var articles={
     date:'sep 21,2016',
     content: 
     ` <p>
-    <div class="header">
+   
  <h1>ABOUT</h1>
- </div>
+ 
  <div >
  <img  src="https://pbs.twimg.com/profile_images/799658699195224064/8i2lKjhm.jpg" class="img-medium1"  />
  </div>
