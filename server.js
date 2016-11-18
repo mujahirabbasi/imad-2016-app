@@ -28,8 +28,8 @@ var articles={
                 this is  a content.this is  a content.this is  a content.this is  a conten.this is  a content.this is  a content.this is  a content.
     </p>`
     },
-    'Search':{
-        title:'Search',
+    'Register':{
+        title:'Register',
     heading: 'Arcticle two',
     date:'sep 11,2016',
     content:
@@ -37,7 +37,7 @@ var articles={
         `<p>
          <div class="container">
 <div class="header">
- <h1>LOGIN</h1>
+ <h1>REGISTER</h1>
  </div>
 
  <form name="login" onsubmit="return validateForm() ;" method="post">
