@@ -26,7 +26,7 @@ var articles={
  <h1>ABOUT</h1>
  </div>
  <div class="center>
- <img  id= "madi" src="https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/14068093_848295201970572_8514364197482803577_n.jpg" class="img-medium" />
+ <img  id= "madi" src="https://pbs.twimg.com/profile_images/799658699195224064/8i2lKjhm.jpg" class="img-medium" />
  </div>
     </p>`
     },
