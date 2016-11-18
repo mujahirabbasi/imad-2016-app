@@ -50,6 +50,7 @@ body {
 	padding: 5px;
 }
 
+
 li {
 	list-style-type: none;
 	text-align: center;
@@ -67,6 +68,9 @@ input {
 h1 {
 	font-family: sans-serif;
 	color: #F07334
+}
+h3{
+    text-align:none;
 }
 
 
