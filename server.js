@@ -26,7 +26,7 @@ var articles={
  <h1>ABOUT</h1>
  
  <div >
- <img  src="https://pbs.twimg.com/profile_images/799658699195224064/8i2lKjhm.jpg" class="img-medium1" height="42" width="42" />
+ <img  src="https://pbs.twimg.com/profile_images/799658699195224064/8i2lKjhm.jpg" class="img-medium1" height="84" width="84" />
  </div>
     </p>`
     },
