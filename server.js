@@ -35,6 +35,26 @@ var articles={
     content:
    
         `<p>
+         <div class="container">
+<div class="header">
+ <h1>LOGIN</h1>
+ </div>
+
+ <form name="login" onsubmit="return validateForm() ;" method="post">
+
+ <ul>
+ <li>Username: <input class="username" type="text" name="username">
+ </li>
+
+ <li>Password: <input class="password" type="password" name="password">
+ </li>
+ </ul>
+
+<input type="button" class="submit" value="Log In" name="submit" onclick="validate()">
+
+
+</form>
+</div>
                 This is  a content for second article.
             </p>`    
     
