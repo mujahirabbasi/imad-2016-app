@@ -22,8 +22,9 @@ var articles={
     date:'sep 21,2016',
     content: 
     ` <p>
-    <h1>ABOUT</h1>
-              
+    <div class="header">
+ <h1>ABOUT</h1>
+ </div>
     </p>`
     },
     'Register':{
