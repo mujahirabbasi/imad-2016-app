@@ -48,10 +48,13 @@ var articles={
 <li>Email Id: <input class="username" type="text" name="username">
  </li>
  
- <li>Confirm Password: <input class="password" type="password" name="password">
- li>: <input class="password" type="password" name="password">
+
+<li>: <input class="password" type="password" name="password">
  </li>
+ 
+ <li>Confirm Password: <input class="password" type="password" name="password">
  </ul>
+
 
 <input type="button" class="submit" value="Log In" name="submit" onclick="validate()">
 
