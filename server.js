@@ -35,7 +35,7 @@ var articles={
  </hr>
  <div>Hi, My name is Mujahir Hussain Abbasi</div>
   <h3>Area of Interst</h3>
-  <div>I'm deeply interested in Android development and had developed some apps also </div>
+  <div>I'm deeply interested in Android development and have developed some apps also </div>
  </hr>
  
  
