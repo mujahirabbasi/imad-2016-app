@@ -26,7 +26,7 @@ var articles={
  <h1>ABOUT</h1>
  </div>
  <div class="center>
- <img src="/ui/mujahir.jpg" class=img-medium" 
+ <img src="/ui/mujahir.jpg" class="img-medium" />
     </p>`
     },
     'Register':{
