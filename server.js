@@ -48,7 +48,7 @@ var articles={
 <li>Email Id: <input class="username" type="text" name="username">
  </li>
  
- <li>Password: <input class="password" type="password" name="password">
+ <li>Confirm Password: <input class="password" type="password" name="password">
  li>: <input class="password" type="password" name="password">
  </li>
  </ul>
