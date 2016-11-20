@@ -10,7 +10,7 @@ var config={
     database:'mujahirabbasi',
     host:'db.imad.hasura.io',
     port:'5432',
-    password:'db-mujahirabbasi-27281'
+    password:process.env.DB_PASSWORD
     };
 var app = express();
 app.use(morgan('combined'));
@@ -222,7 +222,7 @@ app.post('/test-db',function(req,res){
     else
     {
         res.send(JSON.stringify(result.rows));
-}
+    }
     });
     });
 app.get('/ui/style.css', function (req, res) {
