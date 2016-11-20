@@ -35,7 +35,7 @@ app.get('/test-db',function(req,res){
 var articles={
     'About':{
          title:'About',
-    heading: '',
+    heading: 'h',
     date:'sep 21,2016',
     content: 
     ` <p>
@@ -61,7 +61,7 @@ var articles={
     },
     'Register':{
         title:'Register',
-    heading: '',
+    heading: 'h',
     date:'sep 11,2016',
     content:
    
@@ -98,7 +98,7 @@ var articles={
 },
     'Login':{
         title:'Login',
-    heading: '',
+    heading: 'g',
     date:'sep 1,2016',
     content: 
     `<p>
