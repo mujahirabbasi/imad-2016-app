@@ -241,8 +241,8 @@ app.get('/ui/main.js', function (req, res) {
 app.get('/ui/mujahir.jpg', function (req, res) {
  res.sendFile(path.join(__dirname, 'ui', 'mujahir.jpg'));
 });
-app.get('articles/:articlename', function (req, res) {
-var articleName = req.params.articlename;
+app.get('/:articleName',function(req,res){
+var articleName=req.params.articleName;
 res.send(createTemplate(articles[articleName]));
 });
 
