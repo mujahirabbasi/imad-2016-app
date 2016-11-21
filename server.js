@@ -71,7 +71,7 @@ var articles={
  <h1>REGISTER</h1>
  </div>
 
- <form name="login" onsubmit="return validateForm() ;" method="post">
+ 
 
  <ul>
  <li>Username: <input class="username" type="text" name="username">
